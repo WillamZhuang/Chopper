@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice-demo.iml" filepath="$PROJECT_DIR$/.idea/microservice-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-eureka/microservice-eureka.iml" filepath="$PROJECT_DIR$/microservice-eureka/microservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" />
     </modules>
   </component>
 </project>

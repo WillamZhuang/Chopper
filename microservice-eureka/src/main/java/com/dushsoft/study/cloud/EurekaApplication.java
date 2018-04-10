@@ -1,8 +1,12 @@
 package com.dushsoft.study.cloud;
 
 /**
- * Created by zcd on 2018/4/10.
+ * Created by Jobba on 2018/4/10.
  */
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+
 @SpringBootApplication
 @EnableEurekaServer
 public class EurekaApplication {
