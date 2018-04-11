@@ -4,7 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <groupId>com.dushsoft.study.cloud</groupId>
+=======
+    <groupId>groupId</groupId>
+>>>>>>> 31113e4750f2a7590c5b9fde53aa148478be2778
     <artifactId>microservice-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 

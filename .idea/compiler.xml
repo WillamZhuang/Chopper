@@ -7,15 +7,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="microservice-config-client" />
+        <module name="microservice-config-server" />
+        <module name="microservice-consumer-movie-feign" />
+        <module name="microservice-consumer-movie-ribbon" />
+        <module name="microservice-demo" />
         <module name="microservice-eureka" />
+        <module name="microservice-gateway-zuul" />
+        <module name="microservice-hystrix-dashboard" />
         <module name="microservice-simple-consumer-movie" />
+        <module name="microservice-simple-consumer-movie-trace" />
         <module name="microservice-simple-provider-user" />
+        <module name="microservice-simple-provider-user-trace" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="microservice-eureka" target="1.8" />
-      <module name="microservice-simple-consumer-movie" target="1.8" />
-      <module name="microservice-simple-provider-user" target="1.8" />
+      <module name="microservice-config-client" target="1.5" />
+      <module name="microservice-config-server" target="1.5" />
+      <module name="microservice-consumer-movie-feign" target="1.5" />
+      <module name="microservice-consumer-movie-ribbon" target="1.5" />
+      <module name="microservice-demo" target="1.5" />
+      <module name="microservice-eureka" target="1.5" />
+      <module name="microservice-gateway-zuul" target="1.5" />
+      <module name="microservice-hystrix-dashboard" target="1.5" />
+      <module name="microservice-simple-consumer-movie" target="1.5" />
+      <module name="microservice-simple-consumer-movie-trace" target="1.5" />
+      <module name="microservice-simple-provider-user" target="1.5" />
+      <module name="microservice-simple-provider-user-trace" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

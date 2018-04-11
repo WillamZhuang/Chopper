@@ -6,24 +6,17 @@
         <option value="$PROJECT_DIR$/microservice-simple-provider-user/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-simple-consumer-movie/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-simple-provider-user-trace/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-simple-consumer-movie-trace/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-client/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" default="true" />
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
